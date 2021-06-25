@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Surendra jangid
-- 👀 I’m interested in  Front-End Development(UI/UX) , Databases , Data Cleaning , Data Analytics and data Engineering.
+- 👀 I’m interested in  Front-End Development(UI/UX) , Databases , Data Cleaning , Data Analytics and Data Engineering.
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Analytics
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/cse-surendra-jangid
